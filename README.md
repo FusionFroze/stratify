@@ -58,4 +58,4 @@ $ stratify clear
 
 **Important:** If you delete the history of an organized directory, the _undo_ command will not work in this directory.
 
-_(You will be asked for confirmation once before actually deleting the history)_
+_(You will be asked for confirmation once, before actually deleting the history)_
