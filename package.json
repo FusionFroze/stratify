@@ -26,5 +26,13 @@
     "file",
     "organize",
     "directory"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FusionFroze/stratify"
+  },
+  "homepage": "https://github.com/FusionFroze/stratify/#readme",
+  "bugs": {
+    "url": "https://github.com/FusionFroze/stratify/issues"
+  }
 }
