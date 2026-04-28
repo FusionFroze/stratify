@@ -1,6 +1,6 @@
 # STRATIFY
 
-Organize a messy, unorganized directory by time period.
+Organize a messy, unorganized directory by time period and file type.
 
 ## Installation
 
@@ -36,9 +36,9 @@ Command structure -
 $ stratify month
 ```
 
-Or, whatever time period you want to organize the directory with.
+Or, whatever time period you want to organize the directory with (quarter, year).
 
-This will organize the whole directory by the time period you ran the command with.
+This will organize the whole directory by the time period you ran the command with. This is the first level. At level two, the files will be organized by their type (e.g., PDFs, images, etc.).
 
 ### Restoring the initial structure
 
